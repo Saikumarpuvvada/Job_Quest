@@ -82,8 +82,7 @@ Want to improve Job Quest? Follow these steps:
 4. Push to branch (`git push origin feature-name`)
 5. Create a Pull Request
 
-## 📜 License
-This project is licensed under the MIT License.
+
 
 ---
 Developed with ❤️ by [Saikumar](https://github.com/Saikumarpuvvada) 🚀
